@@ -1,6 +1,6 @@
-# Web3 Resources
+# Web3CTF
 
-Welcome to the Web3 Resources repository! This is an open-source collection of tools and resources related to web3 development. Feel free to contribute by adding more tools or updating existing information.
+List of all Web3 security challenges and vulnerable applications
 
 ## Tools
 
