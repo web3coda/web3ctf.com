@@ -26,7 +26,7 @@ List of all Web3 security challenges and vulnerable applications
 
 ## Contribution Guidelines
 
-We welcome contributions to this list! If you have a web3-related tool that you'd like to add, please follow these guidelines:
+We welcome contributions to this list! If you have a web3 security related challenges/applications that you'd like to add, please follow these guidelines:
 
 1. Fork this repository.
 2. Create a new branch: `git checkout -b feature/new-tool`.
@@ -35,4 +35,4 @@ We welcome contributions to this list! If you have a web3-related tool that you'
 5. Push the branch: `git push origin feature/new-tool`.
 6. Submit a pull request.
 
-Thank you for contributing to the Web3 Resources project!
+Thank you for contributing to the Web3CTF project!
