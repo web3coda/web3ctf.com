@@ -1,4 +1,4 @@
-# Web3CTF
+# Web3 Resources [<i class="fa-brands fa-github" style="color: #000000;"></i> ](https://github.com/web3coda/web3ctf.com)
 
 List of all Web3 security challenges and vulnerable applications. Feel free to contribute by adding more tools or updating existing information.
 
