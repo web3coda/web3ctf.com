@@ -1,10 +1,10 @@
-# Web3 Resources [<i class="fa-brands fa-github" style="color: #000000;"></i> ](https://github.com/web3coda/web3ctf.com){:target="_blank"}
+# Web3 Resources [<i class="fa-brands fa-github" style="color: #000000;"></i> ](https://github.com/web3coda/web3ctf.com)
 
 List of all Web3 security challenges and vulnerable applications. Feel free to contribute by adding more tools or updating existing information.
 
 ## Tools
 
-* [Smart Contract Vulnerabilities Collection](https://github.com/kadenzipfel/smart-contract-vulnerabilities) - A curated list of smart contract vulnerabilities with detailed explanations.
+* [Smart Contract Vulnerabilities Collection](https://github.com/kadenzipfel/smart-contract-vulnerabilities){:target="_blank"} - A curated list of smart contract vulnerabilities with detailed explanations.
 
 * [Awesome Buggy ERC20 Tokens](https://github.com/sec-bit/awesome-buggy-erc20-tokens) - A collection of vulnerable ERC20 tokens for educational purposes.
 
