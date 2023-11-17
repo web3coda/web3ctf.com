@@ -1,6 +1,6 @@
 # Web3CTF
 
-List of all Web3 security challenges and vulnerable applications
+List of all Web3 security challenges and vulnerable applications. Feel free to contribute by adding more tools or updating existing information.
 
 ## Tools
 
